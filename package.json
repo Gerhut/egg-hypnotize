@@ -1,6 +1,6 @@
 {
   "name": "egg-hypnotize",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "egg.js plugin of hypnotize",
   "main": "index.js",
   "scripts": {
