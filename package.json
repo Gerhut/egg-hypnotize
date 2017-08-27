@@ -1,0 +1,42 @@
+{
+  "name": "egg-hypnotize",
+  "version": "0.0.0",
+  "description": "egg.js plugin of hypnotize",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "egg-bin test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerhut/egg-hypnotize.git"
+  },
+  "keywords": [
+    "egg",
+    "nightmare",
+    "test"
+  ],
+  "author": "George Chung <Gerhut@GMail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gerhut/egg-hypnotize/issues"
+  },
+  "homepage": "https://github.com/Gerhut/egg-hypnotize#readme",
+  "devDependencies": {
+    "egg": "^1.7.0",
+    "egg-bin": "^4.1.0",
+    "egg-mock": "^3.9.1",
+    "eslint": "^4.5.0",
+    "eslint-config-egg": "^5.1.0"
+  },
+  "dependencies": {
+    "extend2": "^1.0.0",
+    "hypnotize": "^0.2.0"
+  },
+  "eggPlugin": {
+    "name": "hypnotize",
+    "env": [
+      "unittest"
+    ]
+  }
+}
