@@ -1,5 +1,6 @@
 # egg-hypnotize
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Gerhut/egg-hypnotize.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Gerhut/egg-hypnotize.svg?branch=master)](https://travis-ci.org/Gerhut/egg-hypnotize)
 [![dependencies Status](https://david-dm.org/Gerhut/egg-hypnotize/status.svg)](https://david-dm.org/Gerhut/egg-hypnotize)
 [![devDependencies Status](https://david-dm.org/Gerhut/egg-hypnotize/dev-status.svg)](https://david-dm.org/Gerhut/egg-hypnotize?type=dev)
