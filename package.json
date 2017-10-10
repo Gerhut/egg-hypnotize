@@ -24,7 +24,7 @@
   "homepage": "https://github.com/Gerhut/egg-hypnotize#readme",
   "devDependencies": {
     "egg": "^1.7.0",
-    "egg-bin": "^4.1.0",
+    "egg-bin": "^4.3.5",
     "egg-mock": "^3.9.1",
     "eslint": "^4.5.0",
     "eslint-config-egg": "^5.1.0"
