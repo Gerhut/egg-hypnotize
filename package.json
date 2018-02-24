@@ -27,7 +27,7 @@
     "egg-bin": "^4.3.5",
     "egg-mock": "^3.9.1",
     "eslint": "^4.5.0",
-    "eslint-config-egg": "^6.0.0"
+    "eslint-config-egg": "^7.0.0"
   },
   "dependencies": {
     "extend2": "^1.0.0",
