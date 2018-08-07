@@ -25,7 +25,7 @@
   "devDependencies": {
     "egg": "^2.0.0",
     "egg-bin": "^4.3.5",
-    "egg-mock": "^3.9.1",
+    "egg-mock": "^3.19.2",
     "eslint": "^5.0.0",
     "eslint-config-egg": "^7.0.0"
   },
