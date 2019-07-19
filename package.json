@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Gerhut/egg-hypnotize#readme",
   "devDependencies": {
-    "egg": "^2.0.0",
+    "egg": "^2.23.0",
     "egg-bin": "^4.3.5",
     "egg-mock": "^3.9.1",
     "eslint": "^5.0.0",
